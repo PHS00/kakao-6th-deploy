@@ -6,7 +6,6 @@ import com.example.kakao.order.item.Item;
 import com.example.kakao.product.Product;
 import com.example.kakao.product.option.Option;
 import com.example.kakao.user.User;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 import java.util.Arrays;
